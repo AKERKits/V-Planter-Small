@@ -4,7 +4,7 @@
 
 The **AKER V Planter-Small** is a planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![V Planter-Small](https://github.com/AKERKits/V-Planter-Medium/blob/master/Images/AKER%20-%20V%20Planter-Large%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![https://github.com/AKERKits/V-Planter-Small/blob/master/Images/AKER%20-%20V%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped.jpg)
 
 *Source Files*
 
