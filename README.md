@@ -1,4 +1,4 @@
-#V Planter-Small v1.0
+#V Planter - Small v1.0
 
 *Overview*
 
