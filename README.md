@@ -29,4 +29,4 @@ The **V Planter-Small** was modeled using our updated 2016 modeling workflow, wh
 
 *Nesting Layout*
 
-![V Planter-Small]()
+![V Planter-Small](https://github.com/AKERKits/V-Planter-Small/blob/master/Images/AKER%20-%20V%20Planter%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
